@@ -1,131 +1,317 @@
 <div align="center">
 
-# ⚡ GCET IoT Club
-### *Geethanjali College of Engineering & Technology — Hyderabad, India*
+<!-------------------------------------------------------------------
+ GCET IoT Club — GitHub Organization Profile
+ profile/README.md
+-------------------------------------------------------------------->
 
-<p align="center">
-  <a href="https://github.com/Gcet-IOT-Club">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Building+the+Future+of+Connected+Intelligence;Embedded+Systems+%E2%80%A2+Edge+AI+%E2%80%A2+Hardware+Engineering;Home+of+NOVA+%E2%80%94+Institutional+Intelligence+Core;Ideate.+Engineer.+Deploy.+Scale." alt="GCET IoT Club Typing SVG" />
-  </a>
-</p>
+<!-- ═══════════════════════════════════════════════ HEADER ══ -->
 
-[![Autonomous](https://img.shields.io/badge/Institution-GCET_(UGC_Autonomous)-0A0E14?style=for-the-badge&logo=google-classroom&logoColor=00FF88)](http://www.geethanjaliinstitutions.com/)
-[![Location](https://img.shields.io/badge/Location-Hyderabad%2C_India-0A0E14?style=for-the-badge&logo=googlemaps&logoColor=00E5FF)](https://maps.google.com/?q=Geethanjali+College+of+Engineering+and+Technology)
-[![Department](https://img.shields.io/badge/Dept-CSE_(AI_%26_ML)-0A0E14?style=for-the-badge&logo=microchip&logoColor=7928CA)](https://github.com/Gcet-IOT-Club)
-[![Status](https://img.shields.io/badge/Status-Active_%26_Building-0A0E14?style=for-the-badge&logo=githubactions&logoColor=FF007F)](https://github.com/Gcet-IOT-Club)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6&height=200&section=header&text=GCET%20IoT%20Club&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Embedded%20Systems%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Hardware%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" alt="Header banner" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=Espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=MQTT&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apple_Silicon_MLX-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF4B4B?style=flat-square&logo=databricks&logoColor=white" />
-</p>
+<a href="https://github.com/Gcet-IOT-Club">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&multiline=false&width=760&height=46&lines=🔌+Building+the+Future+of+Connected+Systems;🧠+Local+LLMs+%E2%80%A2+Quantized+Neural+Engines+%E2%80%A2+Edge+AI;⚡+MQTT+%E2%80%A2+LoRaWAN+%E2%80%A2+ESP32+%E2%80%A2+Apple+Silicon;🏆+Bid2Build+%E2%80%A2+IoTverse+%E2%80%A2+1000%2B+Mentored;🚀+Ideate.+Engineer.+Deploy.+Scale." alt="Typing SVG" />
+</a>
 
----
+<br/>
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Gcet-IOT-Club.Gcet-IOT-Club&left_color=0A0E14&right_color=00FF88&left_text=Profile%20Views)](https://github.com/Gcet-IOT-Club)
+&nbsp;
+[![GitHub org](https://img.shields.io/github/followers/Gcet-IOT-Club?label=Follow%20the%20Club&style=flat-square&logo=github&color=0A0E14&labelColor=00FF88&logoColor=0A0E14)](https://github.com/Gcet-IOT-Club)
+&nbsp;
+[![Location](https://img.shields.io/badge/📍_Hyderabad%2C_Telangana-India-0A0E14?style=flat-square)](https://maps.google.com/?q=Geethanjali+College+of+Engineering+and+Technology)
+&nbsp;
+[![Status](https://img.shields.io/badge/Status-Actively_Building-00FF88?style=flat-square&logo=githubactions&logoColor=0A0E14)](https://github.com/Gcet-IOT-Club)
 
 </div>
 
-## 🌐 Who We Are
+<br/>
 
-The **GCET IoT Club** is the premier student-led hardware and embedded systems innovation hub at **Geethanjali College of Engineering and Technology (UGC Autonomous)**, operated under the guidance of the **Department of CSE (AI & ML)**.
+<!-- ═══════════════════════════════════════════════ MARQUEE ══ -->
+<div align="center">
+<table><tr><td>
 
-We bridge the gap between academic theory and real-world embedded deployment. From custom PCB schematics and microcontroller firmware to distributed MQTT sensor meshes and local Edge-AI models running on Apple Silicon, we engineer complete hardware-to-cloud systems.
+```
+ ██╗ ██████╗ ████████╗     ██████╗██╗     ██╗   ██╗██████╗
+ ██║██╔═══██╗╚══██╔══╝    ██╔════╝██║     ██║   ██║██╔══██╗
+ ██║██║   ██║   ██║       ██║     ██║     ██║   ██║██████╔╝
+ ██║██║   ██║   ██║       ██║     ██║     ██║   ██║██╔══██╗
+ ██║╚██████╔╝   ██║       ╚██████╗███████╗╚██████╔╝██████╔╝
+ ╚═╝ ╚═════╝    ╚═╝        ╚═════╝╚══════╝ ╚═════╝ ╚═════╝
 
----
+  GCET IoT Club  ·  Geethanjali College of Engineering & Technology
+  Department of CSE (AI & ML)  ·  Hyderabad, India  ·  Est. 2022
+```
 
-## 🔬 Core Engineering Domains
+</td></tr></table>
+</div>
 
+<br/>
+
+<!-- ══════════════════════════════════════════════ TECH STACK ══ -->
 <div align="center">
 
-| Domain | Focus Technologies | Active Workloads |
-|:---|:---|:---|
-| **⚡ Embedded & Firmware** | `ESP32` • `STM32` • `Arduino` • `Raspberry Pi` • `Embedded C/C++` | Real-time sensor interfacing, custom PCB layout, I2C/SPI/UART protocol buses |
-| **📡 IoT Cloud & Networking** | `MQTT` • `LoRaWAN` • `WebSockets` • `HTTP/REST` • `Node-RED` | Low-latency telemetry streams, remote device provisioning, telemetry dashboards |
-| **🧠 Edge AI & Neural Cores** | `MLX` • `Llama-3` • `TinyML` • `TensorFlow Lite` • `ChromaDB` | Localized LLMs on unified memory, offline RAG systems, sensory computer vision |
-| **🛠️ Hardware Prototyping** | `SolidWorks` • `KiCAD` • `Circuit Simulation` • `3D Printing` | Rapid physical enclosure prototyping, power-budget management, field telemetry |
+**Hardware**&nbsp;&nbsp;
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=Espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+**Connectivity**&nbsp;&nbsp;
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=MQTT&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-0F62FE?style=for-the-badge&logo=semtech&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**AI / Edge**&nbsp;&nbsp;
+![MLX](https://img.shields.io/badge/Apple_MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Languages**&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 🏆 Flagship Initiatives & Track Record
+<!-- ══════════════════════════════════════════════════ BIO ══ -->
 
-### 🚀 Bid2Build Ideathon
-Our marquee national-level technical ideathon bringing together over 150+ engineers across Andhra Pradesh and Telangana. Features a live gamified problem-statement auction, rapid 24-hour hardware and software prototyping, and evaluation by leading industry startup CTOs and jury leaders.
+## 〈 Who We Are 〉
 
-### 🌌 IoTverse
-A multi-track engineering festival featuring live project exhibitions, hardware debugging speedruns, embedded systems quizzes, and prototype demonstration stages.
+> *"The best way to predict the future is to engineer it."*
 
-### 📚 Knowledge Transfer (KT) Sessions
-Weekly peer-led technical masterclasses designed to upskill junior engineers on practical hardware stacks:
-- *MQTT Protocol & Distributed Broker Architecture*
-- *Firmware Optimization for ESP32 Dual-Core Processors*
-- *Sensor Data Fusion & Cloud Integration*
-- *Hardware Security & Industrial IoT Standards*
+The **GCET IoT Club** is the highest-voltage student engineering collective at **Geethanjali College of Engineering and Technology (UGC Autonomous)**. We are not a study group. We are not a seminar club. We are builders, firmware hackers, PCB designers, and edge-AI engineers.
 
----
+From writing bare-metal `C++` for ESP32 dual-core processors to deploying **quantized 8-billion-parameter LLMs** running entirely offline on local Apple Silicon hardware — we build complete, production-grade systems. Every project we ship has real embedded hardware, real data pipelines, and real impact.
 
-## 🌟 Featured Engineering Project: NOVA
+<br/>
+
+<!-- ══════════════════════════════════════════════ STATS WALL ══ -->
+
+## 〈 Stats Wall 〉
 
 <div align="center">
 
-### 🧠 [NOVA: Institutional Intelligence Core](https://github.com/ABHICODZ/NOVA)
-*A Localized, 100% Offline Compound AI Engine Built on Apple Silicon MLX*
+<a href="https://github.com/ABHICODZ">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ABHICODZ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E14&title_color=00FF88&icon_color=00FF88&text_color=AAFFCC&count_private=true&rank_icon=github" alt="ABHICODZ GitHub Stats" />
+</a>
+<a href="https://github.com/ABHICODZ">
+  <img height="180" src="https://streak-stats.demolab.com?user=ABHICODZ&theme=dark&hide_border=true&background=0A0E14&ring=00FF88&fire=FF007F&currStreakLabel=00FF88&sideLabels=00FF88&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=555555" alt="GitHub Streak Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ABHICODZ">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHICODZ&layout=compact&hide_border=true&bg_color=0A0E14&title_color=00FF88&text_color=AAFFCC&langs_count=8&theme=chartreuse-dark" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+**🏆 Achievement Trophies**
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ABHICODZ&theme=matrix&no-frame=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════ NOVA PROJECT ══ -->
+
+## 〈 NOVA: Flagship Engineering Project 〉
+
+<div align="center">
+
+[![NOVA](https://github-readme-stats.vercel.app/api/pin/?username=ABHICODZ&repo=NOVA&theme=chartreuse-dark&hide_border=true&bg_color=0A0E14&title_color=00FF88&icon_color=FF007F&text_color=AAFFCC)](https://github.com/ABHICODZ/NOVA)
 
 </div>
 
 ```
-[ User Query / Terminal ] ──▶ [ Intent Router ] ──▶ [ Hybrid Vector Search ] ──▶ [ RBAC Guard ] ──▶ [ Local Llama-3-8B Engine ]
-                                                              │                                              │
-                                                     (ChromaDB v4 Store)                         (24GB Apple Unified Memory)
+╔══════════════════════════════════════════════════════════════════════╗
+║    NOVA · INSTITUTIONAL INTELLIGENCE CORE                           ║
+║    A 100% offline, locally-executed Compound AI System              ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  User Query                                                          ║
+║     │                                                                ║
+║     ▼                                                                ║
+║  [ FastAPI Gateway ] ──▶ [ Intent Router / Memory ]                  ║
+║                                │                                     ║
+║                                ▼                                     ║
+║          [ Gemini Embeddings ] ──▶ [ ChromaDB v4 · 149 Vectors ]     ║
+║                                            │                         ║
+║                                            ▼                         ║
+║                                 [ RBAC Security Guard ]              ║
+║                                            │                         ║
+║                                            ▼                         ║
+║                  ╔══════════════════════════════════╗                ║
+║                  ║  APPLE SILICON METAL SANDBOX     ║                ║
+║                  ║  Llama-3-8B DoRA · 4-bit Quant   ║                ║
+║                  ║  24GB Unified Memory · MLX        ║                ║
+║                  ╚══════════════════════════════════╝                ║
+║                                            │                         ║
+║                                     Token Stream                     ║
+║                                            │                         ║
+║                                            ▼                         ║
+║                            [ Hacker Terminal UI ]                    ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🔒 Zero Data Egress  ·  📡 Offline Neural Inference                 ║
+║  📚 RAG over DOCX/PDF/XLSX  ·  🎯 Club-Tuned DoRA Fine-Tune         ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-- **Zero Cloud Leakage:** Student rosters, college administrative records, and internal club event budgets remain strictly on-premise.
-- **Quantized Neural Engine:** Llama-3-8B fine-tuned with DoRA adapters and compiled for Apple Silicon Metal acceleration.
-- **Overlapping Semantic RAG:** Contextual retrieval across hundreds of club documents, event reports, spreadsheets, and minutes.
-- **Architecture Specification:** Verified with Archify — [View Interactive Architecture](https://htmlpreview.github.io/?https://github.com/ABHICODZ/NOVA/blob/main/architecture/nova_architecture.html).
-
----
-
-## 📊 By The Numbers
 
 <div align="center">
 
-```ascii
- ╔══════════════════╦══════════════════╦══════════════════╦══════════════════╗
- ║     1000+        ║       10+        ║       3+         ║       100%       ║
- ║ Students Mentored║  Workshops & KTs ║ Flagship Summits ║   Student-Led    ║
- ╚══════════════════╩══════════════════╩══════════════════╩══════════════════╝
+[![Interactive Architecture](https://img.shields.io/badge/🚀_Interactive_Architecture_Diagram-Archify_Showcase-00FF88?style=for-the-badge&labelColor=0A0E14)](https://htmlpreview.github.io/?https://github.com/ABHICODZ/NOVA/blob/main/architecture/nova_architecture.html)
+&nbsp;
+[![View Repo](https://img.shields.io/badge/View_NOVA_Repository-0A0E14?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/ABHICODZ/NOVA)
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════ DOMAINS ══ -->
+
+## 〈 Engineering Domains 〉
+
+<div align="center">
+
+| 〔⚡〕Embedded & Firmware | 〔📡〕IoT Cloud | 〔🧠〕Edge AI | 〔🛠️〕Hardware |
+|:---:|:---:|:---:|:---:|
+| ESP32 dual-core | MQTT broker meshes | Quantized LLMs (MLX) | KiCad PCB design |
+| I2C / SPI / UART | LoRaWAN long-range | TinyML sensor fusion | SolidWorks CAD |
+| Real-time RTOS | WebSocket telemetry | Offline RAG systems | Power budget analysis |
+| Bare-metal C++ | Node-RED dashboards | ChromaDB vector search | 3D-printed enclosures |
+| STM32 / Arduino | REST API integration | DoRA fine-tuning | Circuit simulation |
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════ EVENTS ══ -->
+
+## 〈 Flagship Events & Record 〉
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🏆  BID2BUILD IDEATHON                          Annual · Live  │
+│      National-level hardware + software hackathon               │
+│      · 150+ engineers across AP & Telangana                     │
+│      · Live problem-statement auction format                     │
+│      · Industry CTOs and startup jury leaders                   │
+│      · ₹16,000+ prize pool                                      │
+├─────────────────────────────────────────────────────────────────┤
+│  🌌  IOTVERSE                                    Multi-Day Fest  │
+│      Multi-track embedded systems engineering summit            │
+│      · Live hardware debugging speedruns                        │
+│      · Prototype showcase stages                                │
+│      · Open circuit exhibition                                  │
+├─────────────────────────────────────────────────────────────────┤
+│  📚  KNOWLEDGE TRANSFER SESSIONS                 Weekly · Peer  │
+│      Deep-dive technical masterclasses led by senior engineers  │
+│      · MQTT Protocol & Distributed Broker Architecture          │
+│      · ESP32 Dual-Core Firmware Optimization                    │
+│      · Sensor Fusion & Cloud Integration                        │
+│      · Industrial IoT Security & Hardening                      │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
----
+<br/>
 
-## 👥 Organization Repositories & Structure
+<!-- ═════════════════════════════════════════════ METRICS ══ -->
 
-- **[`NOVA`](https://github.com/ABHICODZ/NOVA)** — Core institutional intelligence platform, MLX LoRA training scripts, and RAG retrieval pipelines.
-- **`firmware-modules`** *(Coming Soon)* — Reusable C++ device drivers, sensor libraries, and MQTT communication wrappers for ESP32/Arduino.
-- **`event-blueprints`** *(Coming Soon)* — Documentation, scripts, problem statements, and evaluation frameworks for club hackathons.
-
----
-
-## 🤝 Connect & Collaborate
-
-Are you a student, hardware enthusiast, researcher, or industry partner looking to build with us?
+## 〈 By The Numbers 〉
 
 <div align="center">
 
-[![College Website](https://img.shields.io/badge/Official_Website-GCET-0A0E14?style=for-the-badge&logo=safari&logoColor=00FF88)](http://www.geethanjaliinstitutions.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Organization-0A0E14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gcet-IOT-Club)
+![1000+ Students Mentored](https://img.shields.io/badge/Students_Mentored-1000%2B-00FF88?style=for-the-badge&labelColor=0A0E14)
+![10+ Workshops](https://img.shields.io/badge/Workshops_%26_KTs-10%2B-00E5FF?style=for-the-badge&labelColor=0A0E14)
+![3+ Summits](https://img.shields.io/badge/Flagship_Summits-3%2B-FF007F?style=for-the-badge&labelColor=0A0E14)
+![100% Student-Led](https://img.shields.io/badge/Student--Led-100%25-7928CA?style=for-the-badge&labelColor=0A0E14)
+
+<br/>
+
+![Colleges Reached](https://img.shields.io/badge/Colleges_Reached-AP_%26_TG-FF4B00?style=for-the-badge&labelColor=0A0E14)
+![Nasscom Partner](https://img.shields.io/badge/Industry_Partner-Nasscom-0059FF?style=for-the-badge&labelColor=0A0E14)
+![Smartbridge Partner](https://img.shields.io/badge/Industry_Partner-Smartbridge-FF007F?style=for-the-badge&labelColor=0A0E14)
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════ ACTIVITY ══ -->
+
+## 〈 Contribution Activity 〉
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHICODZ&bg_color=0A0E14&color=00FF88&line=00FF88&point=FF007F&area=true&hide_border=true&area_color=00FF8820)](https://github.com/ABHICODZ)
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════ QUOTE + SNAKE ══ -->
+
+## 〈 Spirit 〉
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20Internet%20of%20Things%20is%20not%20a%20concept.%20It%20is%20a%20network%2C%20the%20net%20of%20things.%20Build%20what%20connects%20the%20world.&author=GCET%20IoT%20Club)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+<br/>
+
+[![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════ REPOS ══ -->
+
+## 〈 Repositories 〉
+
+<div align="center">
+
+| Repository | Description | Status |
+|:---|:---|:---:|
+| [**NOVA**](https://github.com/ABHICODZ/NOVA) | Localized Compound AI System · MLX Llama-3-8B DoRA · Offline RAG | ![Active](https://img.shields.io/badge/ACTIVE-00FF88?style=flat-square&labelColor=0A0E14) |
+| **firmware-modules** | ESP32/Arduino drivers, MQTT wrappers, sensor libraries | ![Soon](https://img.shields.io/badge/COMING_SOON-FF007F?style=flat-square&labelColor=0A0E14) |
+| **event-blueprints** | Hackathon frameworks, problem statements, evaluation rubrics | ![Soon](https://img.shields.io/badge/COMING_SOON-7928CA?style=flat-square&labelColor=0A0E14) |
+| **pcb-library** | Custom KiCad component libraries and schematics | ![Soon](https://img.shields.io/badge/COMING_SOON-FF4B00?style=flat-square&labelColor=0A0E14) |
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════ CONNECT ══ -->
+
+## 〈 Connect 〉
+
+<div align="center">
+
+Are you a student, hardware enthusiast, researcher, or industry partner?
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Gcet--IOT--Club-0A0E14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gcet-IOT-Club)
+&nbsp;
+[![College](https://img.shields.io/badge/Website-GCET-0A0E14?style=for-the-badge&logo=googlechrome&logoColor=00FF88)](http://www.geethanjaliinstitutions.com/)
+&nbsp;
 [![Email](https://img.shields.io/badge/Contact-IoT_Club-0A0E14?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:iotclub@geethanjali.edu.in)
 
 <br/>
 
-<sub>© 2026 GCET IoT Club. Department of Computer Science & Engineering (AI & ML), Geethanjali College of Engineering and Technology.</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6&height=120&section=footer&animation=fadeIn" alt="Footer wave" />
+
+<sub>© 2026 GCET IoT Club · Department of Computer Science & Engineering (AI & ML) · Geethanjali College of Engineering and Technology (UGC Autonomous) · Hyderabad, India</sub>
 
 </div>

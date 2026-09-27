@@ -7,7 +7,7 @@
 
 <!-- ═══════════════════════════════════════════════ HEADER ══ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6&height=200&section=header&text=GCET%20IoT%20Club&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Embedded%20Systems%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Hardware%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" alt="Header banner" />
+<img width="100%" src="https://raw.githubusercontent.com/Gcet-IOT-Club/.github/main/assets/header-pixel-lab.jpg" alt="GCET IoT Club Pixel Lab Header" />
 
 <a href="https://github.com/Gcet-IOT-Club">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&multiline=false&width=760&height=46&lines=🔌+Building+the+Future+of+Connected+Systems;🧠+Local+LLMs+%E2%80%A2+Quantized+Neural+Engines+%E2%80%A2+Edge+AI;⚡+MQTT+%E2%80%A2+LoRaWAN+%E2%80%A2+ESP32+%E2%80%A2+Apple+Silicon;🏆+Bid2Build+%E2%80%A2+IoTverse+%E2%80%A2+1000%2B+Mentored;🚀+Ideate.+Engineer.+Deploy.+Scale." alt="Typing SVG" />

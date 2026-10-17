@@ -269,7 +269,11 @@ From writing bare-metal `C++` for ESP32 dual-core processors to deploying **quan
 
 <br/>
 
-[![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gcet-IOT-Club/.github/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gcet-IOT-Club/.github/output/github-snake-light.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Gcet-IOT-Club/.github/output/github-snake.svg" />
+</picture>](https://github.com/Platane/snk)
 
 </div>
 
